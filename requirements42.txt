@@ -5,7 +5,7 @@
 #
 # On a Macintosh this should be python3 and pip3
 #
-Django==4.2.7
+Django==5.2.8
 
 # If you want to use MySQL, and are not running on PythonAnywhere,
 # uncomment the following line you might need to install pre-requisite
@@ -18,7 +18,7 @@ Django==4.2.7
 asgiref==3.7.2
 beautifulsoup4==4.12.3
 certifi==2023.7.22
-cffi==1.15.1
+cffi==2.0.0
 charset-normalizer==3.2.0
 crispy-bootstrap5==0.7
 cryptography==41.0.6
