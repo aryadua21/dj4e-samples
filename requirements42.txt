@@ -12,7 +12,7 @@ Django==5.2.8
 # libraries before mysqlclient will work - instructions are at
 #   https://pypi.org/project/mysqlclient/
 
-# mysqlclient==2.1.1
+mysqlclient==2.1.1
 
 # Other requirments - frozen to a version to simplify tech support
 asgiref==3.7.2
