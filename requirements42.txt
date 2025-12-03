@@ -5,7 +5,7 @@
 #
 # On a Macintosh this should be python3 and pip3
 #
-Django==5.2.8
+Django==5.2.9
 
 # If you want to use MySQL, and are not running on PythonAnywhere,
 # uncomment the following line you might need to install pre-requisite
@@ -15,34 +15,34 @@ Django==5.2.8
 mysqlclient==2.2.7
 
 # Other requirments - frozen to a version to simplify tech support
-asgiref==3.7.2
-beautifulsoup4==4.12.3
-certifi==2023.7.22
+asgiref==3.11.0
+beautifulsoup4==4.14.3
+certifi==2024.12.14
 cffi==2.0.0
-charset-normalizer==3.2.0
-crispy-bootstrap5==0.7
-cryptography==41.0.6
+charset-normalizer==3.4.1
+crispy-bootstrap5==2024.10
+cryptography==46.0.3
 defusedxml==0.7.1
-django-crispy-forms==2.0
-django-extensions==3.2.3
-django-filter==23.2
-django-taggit==4.0.0
-djangorestframework==3.14.0
-idna==3.4
-importlib-metadata==6.8.0
-lxml==5.3.0
-Markdown==3.4.3
+django-crispy-forms==2.5
+django-extensions==4.1
+django-filter==25.2
+django-taggit==6.1.0
+djangorestframework==3.16.1
+idna==3.10
+importlib-metadata==8.4.0
+lxml==6.0.2
+Markdown==3.10
 oauthlib==3.2.2
-pycparser==2.21
-PyJWT==2.7.0
+pycparser==2.22
+PyJWT==2.10.1
 python3-openid==3.2.0
-pytz==2023.3
-requests==2.31.0
-requests-oauthlib==1.3.1
-social-auth-app-django==5.2.0
-social-auth-core==4.4.2
-sqlparse==0.4.4
-typing_extensions==4.7.1
-urllib3==2.0.7
-zipp==3.15.0
+pytz==2024.2
+requests==2.32.5
+requests-oauthlib==2.0.0
+social-auth-app-django==5.6.0
+social-auth-core==4.8.1
+sqlparse==0.5.4
+typing_extensions==4.12.2
+urllib3==2.3.0
+zipp==3.20.2
 
